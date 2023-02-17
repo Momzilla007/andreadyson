@@ -1,0 +1,191 @@
+body {
+    background-color: #fff1f1;
+    font-family: "Merriweather", serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 5.625rem;
+    color: #547795;
+    width: 20%;
+    margin: 50px auto 0 auto;
+    font-family: "Caveat", cursive;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    color: #547795;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #434d52;
+    ;
+}
+
+a {
+    color: #434d52;
+    ;
+}
+
+hr {
+    border-top: dotted 10px #799393;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 5%;
+    margin: 100px auto;
+}
+
+.profile {
+    padding-top: 100px;
+}
+
+.about-me {
+    width: 30%;
+    margin: 50px auto;
+    line-height: 2;
+
+
+}
+
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.topcontainer {
+    background-color: #dff1e9;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.middlecontainer {
+    background-color: whitesmoke;
+    padding-top: 100px 0;
+}
+
+.bottomcontainer {
+    background-color: #B5D5C5;
+    padding: 75px;
+    color: #547795;
+    font-weight: 200;
+
+
+}
+
+/* ---Contact Me section--- */
+
+.letschat {
+    width: 30%;
+    margin: 40px auto 60px;
+    line-height: 2;
+}
+
+.contact-me {
+    background-color: whitesmoke;
+    padding: 0px 100px 100px 100px;
+}
+
+.btn {
+    background: #83b89d;
+    background-image: -webkit-linear-gradient(top, #83b89d, #6c9c84);
+    background-image: -moz-linear-gradient(top, #83b89d, #6c9c84);
+    background-image: -ms-linear-gradient(top, #83b89d, #6c9c84);
+    background-image: -o-linear-gradient(top, #83b89d, #6c9c84);
+    background-image: linear-gradient(to bottom, #83b89d, #6c9c84);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #7fb399 2px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #8cb8a2;
+    background-image: -webkit-linear-gradient(top, #8cb8a2, #6190b0);
+    background-image: -moz-linear-gradient(top, #8cb8a2, #6190b0);
+    background-image: -ms-linear-gradient(top, #8cb8a2, #6190b0);
+    background-image: -o-linear-gradient(top, #8cb8a2, #6190b0);
+    background-image: linear-gradient(to bottom, #8cb8a2, #6190b0);
+    text-decoration: none;
+}
+
+/* end of contact me section */
+
+
+.copyright {
+    color: white;
+    font-size: 80%;
+    padding-top: 50px;
+}
+
+.footer-link {
+    margin: 20px;
+    font-size: 1.5rem;
+    font-family: "Montserrat", sans-serif;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: white;
+}
+
+.dev {
+    text-decoration: underline;
+}
+
+.top-web {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-spider {
+    position: absolute;
+    left: 300px;
+    bottom: 200px;
+
+}
+
+.web-code-graphic {
+    float: left;
+    margin-right: 30px;
+
+}
+
+.paintbrush {
+    float: right;
+    margin-left: 30px;
+}
+
+/* colour pallet for website -- /* CSV 
+547795,050505,eae2ea,799393,634a30,fafa43,eeeaaa,434d52,b48c74
+
+/* Array 
+["547795","050505","eae2ea","799393","634a30","fafa43","eeeaaa","434d52","b48c74"] */
+
+
+/* CSS HEX 
+--kashmir-blue: #547795;
+--black: #050505;
+--lola: #eae2ea;
+--juniper: #799393;
+--shingle-fawn: #634a30;
+--golden-fizz: #fafa43;
+--double-colonial white: #eeeaaa;
+--mako: #434d52;
+--sandal: #b48c74;
+*/
